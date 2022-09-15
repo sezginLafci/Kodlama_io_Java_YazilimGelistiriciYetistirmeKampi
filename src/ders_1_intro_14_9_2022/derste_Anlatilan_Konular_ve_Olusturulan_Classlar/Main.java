@@ -72,7 +72,7 @@ public class Main {
         //i < krediler.lenght; --> krediler değişkeni kaç elemandan oluşur. --> for döngüsü içinde ne kadar döneyim manasında kullanılır.
         //i++ --> 1er 1er arttır manasına gelir.
         for (int i = 0; i < krediler.length; i++) {
-            System.out.println(krediler[i]); // i yazma sebebimiz --> ilk çalışmadad krediler[0] --> 2. çalışmada krediler[1] --> 3. çalışmada krediler[2] sisteminde çalışır.
+            System.out.println(krediler[i]); // i yazma sebebimiz --> ilk çalışmada krediler[0] --> 2. çalışmada krediler[1] --> 3. çalışmada krediler[2] sisteminde çalışır.
         }
 
     }
