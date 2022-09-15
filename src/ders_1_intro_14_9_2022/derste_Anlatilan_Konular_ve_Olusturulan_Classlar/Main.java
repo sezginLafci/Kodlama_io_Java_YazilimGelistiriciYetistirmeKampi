@@ -1,4 +1,4 @@
-package ders1_intro_14_9_2022;
+package ders_1_intro_14_9_2022;
 
 public class Main {
 
